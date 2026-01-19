@@ -1,6 +1,7 @@
-# Vision-Based PC Automation 🤖✋
+# Vision-Based PC Automation 🤖✋ by Baibhav Rajkumar
 
 This project allows you to control your PC using hand gestures captured by your webcam. It uses **OpenCV**, **MediaPipe**, and **PyAutoGUI**.
+
 
 ## Features
 - **Virtual Mouse**: Move your index finger to control the mouse cursor.
